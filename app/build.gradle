@@ -29,6 +29,7 @@ dependencies {
     implementation 'com.google.android.gms:play-services-location:17.0.0'
 
     implementation 'com.github.androdocs:Simple-HTTP-Request:v1.0'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
 
 
     testImplementation 'junit:junit:4.12'
